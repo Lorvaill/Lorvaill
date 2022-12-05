@@ -22,3 +22,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="drawing" width="30"/>   
 Discord : Lorvaill#6398
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorvaill&layout=compact)](https://github.com/lorvaill/github-readme-stats)
