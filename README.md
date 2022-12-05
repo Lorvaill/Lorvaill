@@ -9,13 +9,13 @@
 <h3>Domaine de compétences :</h3>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="30"/>
-<img src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="drawing" width="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="drawing" width="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" alt="drawing" width="50"/>
+<a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=Cj0KCQiAyracBhDoARIsACGFcS4QvCbSarqySqO7m2O5IbgmCQ6EfaCjq3TgpZVIUFD5fQuEiS58iVUaArNGEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQiAyracBhDoARIsACGFcS4QvCbSarqySqO7m2O5IbgmCQ6EfaCjq3TgpZVIUFD5fQuEiS58iVUaArNGEALw_wcB:G:s&s_kwcid=AL!3085!3!600183526304!e!!g!!phtoshop!1435912263!56537393019"><img src="https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png" alt="drawing" width="50"/></a>
+<a href="https://www.adobe.com/fr/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="30"/></a>
+<a href="https://www.java.com/fr/"><img src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png" alt="drawing" width="50"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="drawing" width="35"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="drawing" width="25"/></a>
+<a href="https://www.mysql.com/fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="drawing" width="50"/></a>
+<a href="https://unity.com/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" alt="drawing" width="50"/></a>
 </p>
 
 <h3>Contactez-moi :</h3>
