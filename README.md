@@ -6,7 +6,7 @@
 </h2>
 
 
-Domaine de compétences :
+<h3>Domaine de compétences :</h3>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png" alt="drawing" width="50"/>
