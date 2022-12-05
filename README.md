@@ -1,6 +1,4 @@
-<p align="center">
-### Lorvaill 👋
-</p>
+<h1 align="center">Lorvaill</h1>
 
 
 
