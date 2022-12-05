@@ -8,7 +8,7 @@
 
 Domaine de compétences :
 
-- <img src="[drawing.jpg](https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png)" alt="drawing" width="200"/>
+- <img src="https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png" alt="drawing" width="200"/>
 - ![download](https://user-images.githubusercontent.com/96297088/205582573-b07fa111-6add-4991-bbe2-8a108756b487.png =250x)
 - ![download](https://user-images.githubusercontent.com/96297088/205582841-7b1695d2-ddbc-42bf-8ff4-ac7b0e2fb975.png =250x)
 - ![download](https://user-images.githubusercontent.com/96297088/205584146-76818546-abb3-4e5c-83c0-c2dfbf319c44.png =250x)
