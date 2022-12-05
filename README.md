@@ -17,3 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" alt="drawing" width="50"/>
 </p>
+
+<h3>Contactez-moi :</h3>
+
+- Discord : Lorvaill#6398
