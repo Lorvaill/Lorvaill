@@ -20,4 +20,4 @@
 
 <h3>Contactez-moi :</h3>
 
-- Discord : Lorvaill#6398
+- Discord : Lorvaill#6398 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="drawing" width="50"/>
