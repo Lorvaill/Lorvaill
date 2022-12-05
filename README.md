@@ -1,9 +1,9 @@
 <h1 align="center">Lorvaill</h1>
 
 
-<p align="center">
+<h2 align="center">
   Je m'intéresse au Développement et au Design, particulièrement en Web et Jeux.  
-</p>
+</h2>
 
 
 Domaine de compétences :
